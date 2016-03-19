@@ -1,0 +1,28 @@
+name: McClenaghan Family
+favicon: null
+layout_spectrum: 0.378060061018914
+typography_spectrum: 0.4140682073775679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6508810962550342
+  lightness: 0.4605889287777245
+  saturation: 0.554528652690351
+  rhythmicContrast: 0.11607002560049295
+purpose: []
